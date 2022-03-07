@@ -6,7 +6,7 @@
   <link href="http://dezehn.github.io/atom.xml" rel="self"/>
   
   <link href="http://dezehn.github.io/"/>
-  <updated>2021-09-05T05:31:49.867Z</updated>
+  <updated>2022-03-07T17:51:46.343Z</updated>
   <id>http://dezehn.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://dezehn.github.io/2022/03/07/hello-world/"/>
     <id>http://dezehn.github.io/2022/03/07/hello-world/</id>
     <published>2022-03-07T05:38:16.496Z</published>
-    <updated>2021-09-05T05:31:49.867Z</updated>
+    <updated>2022-03-07T17:51:46.343Z</updated>
     
     
       
@@ -34,6 +34,14 @@
     
     
     
+    <category term="categories1" scheme="http://dezehn.github.io/categories/categories1/"/>
+    
+    <category term="categories2" scheme="http://dezehn.github.io/categories/categories1/categories2/"/>
+    
+    
+    <category term="tags1" scheme="http://dezehn.github.io/tags/tags1/"/>
+    
+    <category term="tags2" scheme="http://dezehn.github.io/tags/tags2/"/>
     
   </entry>
   
