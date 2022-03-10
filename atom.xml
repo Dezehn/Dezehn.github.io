@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Dezehn&#39;s Blog</title>
   
-  <subtitle>身若溪水 闲下自清</subtitle>
+  <subtitle>看清 看轻</subtitle>
   <link href="http://dezehn.github.io/atom.xml" rel="self"/>
   
   <link href="http://dezehn.github.io/"/>
@@ -51,8 +51,8 @@
   
   <entry>
     <title>New</title>
-    <link href="http://dezehn.github.io/2021/09/05/New/"/>
-    <id>http://dezehn.github.io/2021/09/05/New/</id>
+    <link href="http://dezehn.github.io/2021/09/05/new/"/>
+    <id>http://dezehn.github.io/2021/09/05/new/</id>
     <published>2021-09-05T05:48:15.000Z</published>
     <updated>2022-03-09T16:45:13.814Z</updated>
     
@@ -88,8 +88,8 @@
   
   <entry>
     <title>Test</title>
-    <link href="http://dezehn.github.io/2021/09/05/%E6%B5%8B%E8%AF%95/"/>
-    <id>http://dezehn.github.io/2021/09/05/%E6%B5%8B%E8%AF%95/</id>
+    <link href="http://dezehn.github.io/2021/09/05/ce-shi/"/>
+    <id>http://dezehn.github.io/2021/09/05/ce-shi/</id>
     <published>2021-09-05T05:48:15.000Z</published>
     <updated>2022-03-09T20:44:27.695Z</updated>
     
