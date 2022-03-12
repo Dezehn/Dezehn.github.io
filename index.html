@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="keywords" content="HTML,CSS,JavaScript,C,C++等">
-    <meta name="description" content="">
+    <meta name="description" content="天下熙熙，皆为利来；天下攘攘，皆为利往。">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -111,9 +111,20 @@
     
     <a href="/friends" class="waves-effect waves-light">
       
-      <i class="fas fa-address-book" style="zoom: 0.6;"></i>
+      <i class="fas fa-paper-plane" style="zoom: 0.6;"></i>
       
       <span>友链</span>
+    </a>
+    
+  </li>
+  
+  <li class="hide-on-med-and-down nav-item">
+    
+    <a href="/contact" class="waves-effect waves-light">
+      
+      <i class="fas fa-comments" style="zoom: 0.6;"></i>
+      
+      <span>留言板</span>
     </a>
     
   </li>
@@ -146,7 +157,7 @@
         <div class="logo-name">看清 看轻</div>
         <div class="logo-desc">
             
-            Never really desperate, only the lost of the soul.
+            天下熙熙，皆为利来；天下攘攘，皆为利往。
             
         </div>
     </div>
@@ -214,9 +225,20 @@
 	  
 		<a href="/friends" class="waves-effect waves-light">
 			
-			    <i class="fa-fw fas fa-address-book"></i>
+			    <i class="fa-fw fas fa-paper-plane"></i>
 			
 			友链
+		</a>
+          
+        </li>
+        
+        <li class="m-nav-item">
+	  
+		<a href="/contact" class="waves-effect waves-light">
+			
+			    <i class="fa-fw fas fa-comments"></i>
+			
+			留言板
 		</a>
           
         </li>
@@ -371,7 +393,10 @@
                 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
                 <script>
                     var typed = new Typed("#subtitle", {
-                        strings: ['夜静海涛三万里，月明飞锡下天风。','倚天照海花无数，流水高山心自知。'],
+                        strings: ['看山是山，看水是水；',
+								  '看山不是山，看水不是水；',
+								  '看山还是山，看水还是水。'],
+								  
                         startDelay: 300,
                         typeSpeed: 100,
                         loop: true,
@@ -528,12 +553,46 @@
 
                     
 						
-					
+					<!--
 					
                     
-                        
+                        <link rel="stylesheet" href="/libs/dplayer/DPlayer.min.css">
+<div class="video-player">
+    
+    <div class="title center-align">
+        <i class="fas fa-video-camera"></i>&nbsp;&nbsp;天空之城 主题曲【MV】
+    </div>
+    
+    <div class="row">
+        <div class="col l8 offset-l2 m10 offset-m1 s12">
+            <div id="dplayer" class="dplayer-video"
+                    ></div>
+        </div>
+    </div>
+</div>
+
+<script src="/libs/dplayer/DPlayer.min.js"></script>
+<script>
+    $(function () {
+        new DPlayer({
+            container: document.getElementById('dplayer'),
+            autoplay: 'false' === 'true',
+            theme: '#42b983',
+            loop: 'false' === 'true',
+            lang: 'zh-CN' === 'zh-CN' ? 'zh-cn' : 'en',
+            preload: 'auto',
+            volume: Number('0.7'),
+            video: {
+                url: 'https://www.bilibili.com/video/BV1ps411U7xc?from=search&seid=890969979124435924&spm_id_from=333.337.0.0',
+                pic: '',
+                thumbnails: ''
+            }
+        });
+    });
+</script>
+
                     
-					
+					-->
 														
 					<!-- 插入B站视频 -->
 					<div class="video-player">
@@ -543,8 +602,8 @@
 						<div class="row">
 							<div class="col l8 offset-l2 m10 offset-m1 s12">
 								<div id="vi" style="height: 35em;">
-									<!-- iframe src 后面添加 &high_quality=1 ，设定播放清晰度为最高 -->
-									<!-- iframe 添加 sandbox 禁止选择清晰度自动跳转至B站-->
+									<!-- iframe src 的值就是你想放的B站视频所给出的分享代码地址 -->
+									
 									<iframe src="//player.bilibili.com/player.html?aid=2370112&bvid=BV1ps411U7xc&cid=3705861&page=1"
 											scrolling="no" border="0" frameborder="no" framespacing="0"
 											allowfullscreen="true" width="100%" height="100%">
