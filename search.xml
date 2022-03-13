@@ -15,20 +15,12 @@
           
           <category> categories1.0 </category>
           
-          <category> categories1.1 </category>
-          
-          <category> categories1.2 </category>
-          
       </categories>
       
       
         <tags>
             
             <tag> tags1.0 </tag>
-            
-            <tag> tags1.1 </tag>
-            
-            <tag> tags1.2 </tag>
             
         </tags>
       
@@ -41,16 +33,12 @@
       <link href="/2021/09/05/new/"/>
       <url>/2021/09/05/new/</url>
       
-        <content type="html"><![CDATA[<p>卷甲归来马伏波</p><p>早年兵法鬓毛皤</p><p>云埋铜柱雷轰折</p><p>六字题文尚不磨</p>]]></content>
+        <content type="html"><![CDATA[<p>卷甲归来马伏波，</p><p>早年兵法鬓毛皤。</p><p>云埋铜柱雷轰折，</p><p>六字题文尚不磨。</p>]]></content>
       
       
       <categories>
           
           <category> categories2.0 </category>
-          
-          <category> categories2.1 </category>
-          
-          <category> categories2.2 </category>
           
       </categories>
       
@@ -58,43 +46,6 @@
         <tags>
             
             <tag> tags2.0 </tag>
-            
-            <tag> tags2.1 </tag>
-            
-            <tag> tags2.2 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Test</title>
-      <link href="/2021/09/05/ce-shi/"/>
-      <url>/2021/09/05/ce-shi/</url>
-      
-        <content type="html"><![CDATA[<p>卷甲归来马伏波</p><p>早年兵法鬓毛皤</p><p>云埋铜柱雷轰折</p><p>六字题文尚不磨</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> categories2.0 </category>
-          
-          <category> categories2.1 </category>
-          
-          <category> categories2.2 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> tags2.0 </tag>
-            
-            <tag> tags2.1 </tag>
-            
-            <tag> tags2.2 </tag>
             
         </tags>
       

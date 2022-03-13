@@ -6,7 +6,7 @@
   <link href="http://dezehn.github.io/atom.xml" rel="self"/>
   
   <link href="http://dezehn.github.io/"/>
-  <updated>2022-03-09T13:18:18.942Z</updated>
+  <updated>2022-03-13T20:33:08.379Z</updated>
   <id>http://dezehn.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://dezehn.github.io/2022/03/10/hello-world/"/>
     <id>http://dezehn.github.io/2022/03/10/hello-world/</id>
     <published>2022-03-10T06:43:14.837Z</published>
-    <updated>2022-03-09T13:18:18.942Z</updated>
+    <updated>2022-03-13T20:33:08.379Z</updated>
     
     
       
@@ -36,16 +36,8 @@
     
     <category term="categories1.0" scheme="http://dezehn.github.io/categories/categories1-0/"/>
     
-    <category term="categories1.1" scheme="http://dezehn.github.io/categories/categories1-0/categories1-1/"/>
-    
-    <category term="categories1.2" scheme="http://dezehn.github.io/categories/categories1-0/categories1-1/categories1-2/"/>
-    
     
     <category term="tags1.0" scheme="http://dezehn.github.io/tags/tags1-0/"/>
-    
-    <category term="tags1.1" scheme="http://dezehn.github.io/tags/tags1-1/"/>
-    
-    <category term="tags1.2" scheme="http://dezehn.github.io/tags/tags1-2/"/>
     
   </entry>
   
@@ -54,17 +46,17 @@
     <link href="http://dezehn.github.io/2021/09/05/new/"/>
     <id>http://dezehn.github.io/2021/09/05/new/</id>
     <published>2021-09-05T05:48:15.000Z</published>
-    <updated>2022-03-09T16:45:13.814Z</updated>
+    <updated>2022-03-13T20:32:39.755Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;卷甲归来马伏波&lt;/p&gt;
-&lt;p&gt;早年兵法鬓毛皤&lt;/p&gt;
-&lt;p&gt;云埋铜柱雷轰折&lt;/p&gt;
-&lt;p&gt;六字题文尚不磨&lt;/p&gt;
+    <summary type="html">&lt;p&gt;卷甲归来马伏波，&lt;/p&gt;
+&lt;p&gt;早年兵法鬓毛皤。&lt;/p&gt;
+&lt;p&gt;云埋铜柱雷轰折，&lt;/p&gt;
+&lt;p&gt;六字题文尚不磨。&lt;/p&gt;
 </summary>
         
       
@@ -73,53 +65,8 @@
     
     <category term="categories2.0" scheme="http://dezehn.github.io/categories/categories2-0/"/>
     
-    <category term="categories2.1" scheme="http://dezehn.github.io/categories/categories2-0/categories2-1/"/>
-    
-    <category term="categories2.2" scheme="http://dezehn.github.io/categories/categories2-0/categories2-1/categories2-2/"/>
-    
     
     <category term="tags2.0" scheme="http://dezehn.github.io/tags/tags2-0/"/>
-    
-    <category term="tags2.1" scheme="http://dezehn.github.io/tags/tags2-1/"/>
-    
-    <category term="tags2.2" scheme="http://dezehn.github.io/tags/tags2-2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Test</title>
-    <link href="http://dezehn.github.io/2021/09/05/ce-shi/"/>
-    <id>http://dezehn.github.io/2021/09/05/ce-shi/</id>
-    <published>2021-09-05T05:48:15.000Z</published>
-    <updated>2022-03-09T20:44:27.695Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;卷甲归来马伏波&lt;/p&gt;
-&lt;p&gt;早年兵法鬓毛皤&lt;/p&gt;
-&lt;p&gt;云埋铜柱雷轰折&lt;/p&gt;
-&lt;p&gt;六字题文尚不磨&lt;/p&gt;
-</summary>
-        
-      
-    
-    
-    
-    <category term="categories2.0" scheme="http://dezehn.github.io/categories/categories2-0/"/>
-    
-    <category term="categories2.1" scheme="http://dezehn.github.io/categories/categories2-0/categories2-1/"/>
-    
-    <category term="categories2.2" scheme="http://dezehn.github.io/categories/categories2-0/categories2-1/categories2-2/"/>
-    
-    
-    <category term="tags2.0" scheme="http://dezehn.github.io/tags/tags2-0/"/>
-    
-    <category term="tags2.1" scheme="http://dezehn.github.io/tags/tags2-1/"/>
-    
-    <category term="tags2.2" scheme="http://dezehn.github.io/tags/tags2-2/"/>
     
   </entry>
   
