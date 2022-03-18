@@ -6,7 +6,7 @@
   <link href="https://dezehn.github.io/atom.xml" rel="self"/>
   
   <link href="https://dezehn.github.io/"/>
-  <updated>2022-03-13T20:33:08.379Z</updated>
+  <updated>2022-03-18T21:36:00.833Z</updated>
   <id>https://dezehn.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://dezehn.github.io/2022/03/15/hello-world/"/>
-    <id>https://dezehn.github.io/2022/03/15/hello-world/</id>
-    <published>2022-03-15T12:19:38.201Z</published>
-    <updated>2022-03-13T20:33:08.379Z</updated>
+    <link href="https://dezehn.github.io/2021/09/05/hello-world/"/>
+    <id>https://dezehn.github.io/2021/09/05/hello-world/</id>
+    <published>2021-09-05T05:50:15.000Z</published>
+    <updated>2022-03-18T21:36:00.833Z</updated>
     
     
       
@@ -34,39 +34,6 @@
     
     
     
-    <category term="categories1.0" scheme="https://dezehn.github.io/categories/categories1-0/"/>
-    
-    
-    <category term="tags1.0" scheme="https://dezehn.github.io/tags/tags1-0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>New</title>
-    <link href="https://dezehn.github.io/2021/09/05/new/"/>
-    <id>https://dezehn.github.io/2021/09/05/new/</id>
-    <published>2021-09-05T05:50:15.000Z</published>
-    <updated>2022-03-16T17:07:14.631Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;卷甲归来马伏波，&lt;/p&gt;
-&lt;p&gt;早年兵法鬓毛皤。&lt;/p&gt;
-&lt;p&gt;云埋铜柱雷轰折，&lt;/p&gt;
-&lt;p&gt;六字题文尚不磨。&lt;/p&gt;
-</summary>
-        
-      
-    
-    
-    
-    <category term="categories2.0" scheme="https://dezehn.github.io/categories/categories2-0/"/>
-    
-    
-    <category term="tags2.0" scheme="https://dezehn.github.io/tags/tags2-0/"/>
     
   </entry>
   
