@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="keywords" content="分类, HTML,CSS,JavaScript,C,C++等">
-    <meta name="description" content="天下熙熙，皆为利来；天下攘攘，皆为利往。">
+    <meta name="description" content="天下熙熙，皆为利来；天下攘攘，皆为利往。——《史记》">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -157,7 +157,7 @@
         <div class="logo-name">看清 看轻</div>
         <div class="logo-desc">
             
-            天下熙熙，皆为利来；天下攘攘，皆为利往。
+            天下熙熙，皆为利来；天下攘攘，皆为利往。——《史记》
             
         </div>
     </div>
@@ -386,13 +386,79 @@
             </div>
             <div class="tag-chips">
                 
-                你目前还没有对文章进行分类.
+                
+                
+                <a href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" title="计算机科学: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            style="background-color: #F9EBEA;">计算机科学
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
                 
             </div>
         </div>
     </div>
 </div>
 
+
+    
+    <style type="text/css">
+    #category-radar {
+        width: 100%;
+        height: 360px;
+    }
+</style>
+
+<div class="container" data-aos="fade-up">
+    <div class="card">
+        <div id="category-radar" class="card-content"></div>
+    </div>
+</div>
+
+<script type="text/javascript" src="/libs/echarts/echarts.min.js"></script>
+<script type="text/javascript">
+    let radarChart = echarts.init(document.getElementById('category-radar'));
+
+    
+
+    let option = {
+        title: {
+            left: 'center',
+            text: '文章分类雷达图',
+            textStyle: {
+                fontWeight: 500,
+                fontSize: 22
+            }
+        },
+        tooltip: {},
+        radar: {
+            name: {
+                textStyle: {
+                    color: '#3C4858'
+                }
+            },
+            indicator: [{"name":"计算机科学","max":2}],
+            nameGap: 5,
+            center: ['50%','55%'],
+            radius: '66%'
+        },
+        series: [{
+            type: 'radar',
+            color: ['#3ecf8e'],
+            itemStyle: {normal: {areaStyle: {type: 'default'}}},
+            data : [
+                {
+                    value : [1],
+                    name : '文章分类数量'
+                }
+            ]
+        }]
+    };
+
+    radarChart.setOption(option);
+</script>
 
     
 
@@ -578,6 +644,44 @@ card-categories-list-spcail > div:hover{
           
   
 
+  
+    
+    
+
+    <li  class="" >
+    <div class="category-row  row collapsible-header">
+      <a
+        class=" category-item collapsed list-group-item category-item-action col s11 m11"
+        id="heading-cl141q3030004y4u403ru452h" 
+      >
+        计算机科学
+        <i class="fas fa-chevron-right"></i>
+      </a>
+      <a href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" class="category-count col s1 m1">
+        <i class="fa fa-list"></i>
+        <span>1</span>
+      </a>
+
+    </div>
+
+        
+          
+  <div id="collapse-cl141q3030004y4u403ru452h" class="category-content collapsible-body" >
+    
+    
+    
+      
+      
+        <a href="/2022/03/23/hexo-matery/" class=" list-group-item list-group-item-action">
+          <span class="category-post">Matery配置</span>
+        </a>
+      
+    
+  </div>
+
+        
+
+    </li>
   
         </ul>
        </div>
